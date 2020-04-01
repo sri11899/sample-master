@@ -2,6 +2,7 @@
 
 prerequisites: node and npm
     these are available inside GCP cloud shell if you can't install them locally.
+    we can have what you want
 
 a. open two separate terminals: one in /internal, one in /external
 b. run npm install in each terminal
